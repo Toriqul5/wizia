@@ -3,7 +3,7 @@ import { Button } from "@heroui/button";
 
 function People() {
     return (
-        <section className="flex flex-col-reverse bg-[url(pic4.png)] bg-cover sm:flex-row gap-6 lg:gap-8 h-auto sm:h-[500px] justify-between items-center w-full p-4">
+        <section className="flex flex-col-reverse bg-[url(/public/pic4.png)] bg-cover sm:flex-row gap-6 lg:gap-8 h-auto sm:h-[500px] justify-between items-center w-full p-4">
             {/* Text Section */}
             <div className="space-y-3 sm:space-y-6 sm:w-1/2 sm:ml-10 sm:mt-10 bg-transparent text-center sm:text-left">
                 <h5 className="bg-transparent text-white text-lg">AI SDRs (aiDRs)</h5>
